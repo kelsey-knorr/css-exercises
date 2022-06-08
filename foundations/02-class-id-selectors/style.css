@@ -1,3 +1,8 @@
+* {
+    color: blue; font-size: 36px;
+}
+
 .odd {
-    background-color: 660000; font: Verdana Dejavu Sans sans-serif;
+    background-color: #f0a7a7; 
+    font-family: Verdana, "Dejavu Sans", sans-serif;
 }
